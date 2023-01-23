@@ -6,7 +6,7 @@ Minesweeper game in a 3X3 board written  in C#
 
 ## Installation
 
-The project runs on Microsoft Visual Studio. You can download the community (free) version from this link: 
+The project runs on Microsoft Visual Studio. You can download the community version from this link: 
 https://visualstudio.microsoft.com/downloads/
 
 Once Visual Studio is installed, just double click on the solution file (Minesweeper.sln) and the complete project will be loaded and ready to run.
